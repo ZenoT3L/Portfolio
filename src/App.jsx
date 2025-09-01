@@ -14,7 +14,7 @@ function App() {
       title: "Custom ToDo List",
       description:
         "A minimalist todo list app with dynamic URL-based list creation. Each path creates a unique list with custom headers.",
-      image: "/images/todo-app.png",
+      image: "../images/todo-app.png",
       technologies: ["Node.js", "Express", "EJS", "MongoDB", "Mongoose"],
       liveUrl: "https://custom-list-app.onrender.com",
       githubUrl: "#",
@@ -23,7 +23,7 @@ function App() {
       title: "CS Career Pathways",
       description:
         "Interactive platform providing curated computer science career paths with both free and paid learning resources for each specialization.",
-      image: "/images/career-pathways.png",
+      image: "../images/career-pathways.png",
       technologies: ["React", "Vite", "JavaScript"],
       liveUrl: "https://pathway-beryl.vercel.app/",
       githubUrl: "#",
@@ -32,7 +32,7 @@ function App() {
       title: "Notes Keeper",
       description:
         "A Google Keep-inspired note-taking application with create and delete functionality, built with modern React practices.",
-      image: "/images/notes-app.png",
+      image: "../images/notes-app.png",
       technologies: ["React", "Vite", "JavaScript"],
       liveUrl: "#",
       githubUrl: "https://github.com/ZenoT3L/Notes-App",
